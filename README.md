@@ -1,2 +1,5 @@
-# star-rating-button-with-ancor
-star-rating-button-with-ancor
+# Star rating button with an anchor tag
+ using <a> and <span> tags
+
+![star rating](score-buttons.png.png)
+
